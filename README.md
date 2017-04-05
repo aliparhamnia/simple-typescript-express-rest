@@ -4,7 +4,7 @@
 cd project-folder
 npm install
 ````
-1. create .env file and edit for your develop environment
+2. create .env file and edit for your develop environment
 ````
 mv  dist/env-template dist/.env
 ````
