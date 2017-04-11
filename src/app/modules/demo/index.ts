@@ -23,7 +23,7 @@ export class DemoRouter {
    * endpoints.
    */
   init() {
-    this.router.post('/dosome', this.doSome);
+    this.router.get('/dosome', this.doSome);
     
   }
 
